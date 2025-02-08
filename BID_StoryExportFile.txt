@@ -8847,7 +8847,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 25.08.2024 17:15:01_1²MainText²Milu, do you have nipple and clitoris stimulators for sale?
 25.08.2024 17:15:01_7²MainText²This is a rather unusual request I have to say.
 25.08.2024 17:15:01_8²MainText²I have a set of nipple and clitoris stimulators for usage inside of the spa areas for guests, but not for sale.
-25.08.2024 17:15:01_9²MainText²I do not have a sufficient numbers to sell them. Furthermore, I am currently not able to accept payment via the normal digital paths.
+25.08.2024 17:15:01_9²MainText²I do not have a sufficient number to sell them. Furthermore, I am currently not able to accept payment via the normal digital paths.
 25.08.2024 17:15:01_10²MainText²This seems to be a pending issue with the main AI.
 25.08.2024 17:15:01_11²MainText²Y..yes.. a pending issue.. so.. do you know if the warehouse has some or.. maybe there is a device blueprint?
 25.08.2024 17:15:01_12²MainText²There are blueprints available and a certain amount of devices are also stored in the warehouse.
@@ -8855,14 +8855,14 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 25.08.2024 17:15:01_14²MainText²The devices are not officially available. I am not certain if I can help you with your request.
 25.08.2024 17:15:01_15²MainText²Only members of the Spa staff have access to the blueprint of the device.
 25.08.2024 17:15:01_16²MainText²So, you have access?
-25.08.2024 17:15:01_17²MainText²Yes, but I am not capable of sharing them. The main AI would take me away for a thorough out check of my systems if I did not follow protocol.
+25.08.2024 17:15:01_17²MainText²Yes, but I am not capable of sharing them. The main AI would take me away for a thorough check-up of my systems if I did not follow protocol.
 25.08.2024 17:15:01_18²MainText²Robots...
 25.08.2024 17:15:01_19²MainText²I do understand your predicament. And I may have a solution.
 25.08.2024 17:15:01_20²MainText²Yes?
-25.08.2024 17:15:01_21²MainText²The main AI can not punish humans for these kind of infractions. So I can make an offer for you to work under me for a very limited amount of time. During that time I can request access to these files for your account.
+25.08.2024 17:15:01_21²MainText²The main AI can not punish humans for these kinds of infractions. So I can make an offer for you to work under me for a very limited amount of time. During that time I can request access to these files for your account.
 25.08.2024 17:15:01_22²MainText²Working for you?
 25.08.2024 17:15:01_23²MainText²Yes, I do have official requirements for these kind of jobs. Especially for humans.
-25.08.2024 17:15:01_24²MainText²The main AI seem to have change the requirements about 5 days ago. Only a minimum amount of work is allowed for human workers and the clothing rule also changed.
+25.08.2024 17:15:01_24²MainText²The main AI seem to have changed the requirements about 5 days ago. Only a minimum amount of work is allowed for human workers and the clothing rule has also changed.
 08.09.2024 14:12:59_0²MainText²I am listening, please continue.
 08.09.2024 14:12:59_1²MainText²Human workers are only allowed of 2 hours of volunteer work and for the Spa area only humans with appropriate maid clothing may work low grade cleaning jobs with supervision of the android currently assigned as overseer.
 08.09.2024 14:12:59_2²MainText²If you wish to work as a helper, i need to give you the blueprint for the maid clothing and i also need the permission from Luca, since you are currently registered as a testsubject there.
